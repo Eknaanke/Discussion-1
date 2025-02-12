@@ -1,6 +1,6 @@
 # Discussion 1 - Group 3
 
-## Andrew Chang, JG Guerrero, Manuel Guiterrez, Martin Tran
+## Andrew Chang, JG Guerrero, Manuel Guiterrez, Martin Tran, Sahil Modi
 
 ### Project Report App 
 
