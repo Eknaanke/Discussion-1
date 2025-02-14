@@ -2,7 +2,7 @@
 
 ## Andrew Chang, JG Guerrero, Manuel Guiterrez, Martin Tran, Sahil Modi
 
-### Project Report App 
+### Weather Report Website
 
 Vision Statement: A weather app that takes user input and return real time data including temperature and basic weather data.
 
