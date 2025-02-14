@@ -25,5 +25,7 @@ Vision Statement: Inspired by the adaptability of the hermit crab, Hermit provid
 4. Accessibility - Desktop website and phone website should show the same result.
 5. Scalability - Accomodate large user traffic.
 
+### Diagram
+!(Hermit.jpg)
 
 	
