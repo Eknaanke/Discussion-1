@@ -26,6 +26,7 @@ Vision Statement: Inspired by the adaptability of the hermit crab, Hermit provid
 5. Scalability - Accomodate large user traffic.
 
 ### Diagram
-!(Hermit.jpg)
+
+![Hermit](https://github.com/user-attachments/assets/63e3fac6-d8c0-4c1a-86b1-4b64129ccd05)
 
 	
