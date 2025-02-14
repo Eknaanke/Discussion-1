@@ -6,7 +6,7 @@
 
 Vision Statement: A weather app that takes user input and return real time data including temperature and basic weather data.
 
-###Functional Requirements
+### Functional Requirements
 
 1. Functional Requirement1: Ask users for location and returns local temperature.
 
